@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://ipms.projects.bingosoft.net:8086/go/BingoLink/ipms.test.ipa</string>
+<string>http://ipms.gzmtr.cn:8210/go/BingoLink/ipms.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
